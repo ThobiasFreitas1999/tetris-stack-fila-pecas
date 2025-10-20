@@ -1,4 +1,4 @@
-# Tetris Stack – Fila de Peças (Nível Novato)
+# Tetris Stack – Fila de Peças
 
 Sabe aquela filinha de peças que aparece no Tetris mostrando quais vão cair depois? Pois é, esse projeto simula exatamente isso! É um programa em C que gerencia uma **fila de peças** do Tetris Stack. Você pode ver quais peças estão esperando, jogar a próxima da fila ou adicionar novas peças no final. Simples assim! 🎮
 
